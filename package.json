@@ -101,9 +101,9 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "json-server": "^0.14.2",
     "jsonwebtoken": "^8.4.0",
     "webpack": "^3.0.0",
